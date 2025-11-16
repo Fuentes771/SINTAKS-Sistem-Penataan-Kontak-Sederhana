@@ -1,6 +1,6 @@
 # SINTAKS — Sistem Penataan Kontak Sederhana Kontak
 
-[[Website SINTAKS](https://img.shields.io/badge/Live%20Demo-View%20SINTAKS-blue)](lightsalmon-mallard-735558.hostingersite.com)
+[![Website SINTAKS](https://img.shields.io/badge/Live%20Demo-View%20SINTAKS-blue)](https://lightsalmon-mallard-735558.hostingersite.com/)
 
 Aplikasi web manajemen kontak modern yang dibangun dengan PHP, menerapkan prinsip form handling, validasi, sanitasi, dan keamanan. Dibuat untuk memenuhi tugas akhir praktikum pemrograman web dengan fokus pada session management dan security.
 
